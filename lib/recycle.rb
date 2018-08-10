@@ -33,7 +33,6 @@ end
 def all_keys(hash)
   hash.each do |key|
     print key
-  end
 end
 
 #4. Define a method called `all_data` that takes a hash as an argument.
